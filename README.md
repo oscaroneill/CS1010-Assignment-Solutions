@@ -3,6 +3,7 @@ This contains the code for all my solutions to the assignments for TCD-CS1010 (I
 
 The order of assignments:
 
+Michaelmas Term:
 Week 1: (No Assignment)
 
 Week 2: Pounds, Shillings and Pennies / PoundsShillingsAndPennies.java
@@ -26,3 +27,8 @@ Week 10: Triangular Stars / TriangularStars.java
 Week 11: High Scores / HighScores.java
 
 Week 12: Cipher / Cipher.java
+
+Hilary Term:
+Week 1: (No Assignment)
+
+Week 2: Sieve of Eratosthenes / SieveofEratosthenes.java
