@@ -32,3 +32,5 @@ Hilary Term:
 Week 1: (No Assignment)
 
 Week 2: Sieve of Eratosthenes / SieveofEratosthenes.java
+
+Week 3: Noughts and Crosses / NoughtsAndCrosses.java
