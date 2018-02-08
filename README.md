@@ -36,3 +36,5 @@ Week 2: Sieve of Eratosthenes / SieveofEratosthenes.java
 Week 3: Noughts and Crosses / NoughtsAndCrosses.java
 
 Week 4: Lewis Carroll's Word-Links Puzzle Game / WordLinks.java
+
+Week 5: Chuck-A-Luck / ChuckALuck.java, Wallet.java, Dice.java (Wallet and Dice programs provided by lecturer)
