@@ -38,3 +38,5 @@ Week 3: Noughts and Crosses / NoughtsAndCrosses.java
 Week 4: Lewis Carroll's Word-Links Puzzle Game / WordLinks.java
 
 Week 5: Chuck-A-Luck / ChuckALuck.java, Wallet.java, Dice.java (Wallet and Dice programs provided by lecturer)
+
+Week 6: Rational / Rational.java, RationalTest.java
