@@ -40,3 +40,9 @@ Week 4: Lewis Carroll's Word-Links Puzzle Game / WordLinks.java
 Week 5: Chuck-A-Luck / ChuckALuck.java, Wallet.java, Dice.java (Wallet and Dice programs provided by lecturer)
 
 Week 6: Rational / Rational.java, RationalTest.java
+
+Week 7: (No Assignment)
+
+Week 8: Climbing Club Harness Records / Harness.java, harnesses.txt, HarnessManager.java, HarnessRecords.java
+
+Week 9: Connect Four Two Player / C4HumanPlayer.java, C4RandomAIPlayer.java, Connect4Game.java, Connect4Grid.java, Connect4Grid2DArray.java, ConnectPlayer.java
